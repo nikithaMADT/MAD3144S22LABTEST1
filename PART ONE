@@ -1,0 +1,47 @@
+<html>
+<head>
+	<title>Nikitha's page</title>
+</head>
+
+<body background="b1.jpg">
+<table>
+	<tr>
+			<th>
+				<h1>Details about Rabbits</h1>
+			</th>
+			</tr>
+			<tr>
+			<th>
+				<h5>Rabbits, also known as bunnies or bunny rabbits, are small mammals in the family Leporidae (which also contains the hares) of the order Lagomorpha (which also contains the pikas). Oryctolagus cuniculus includes the European rabbit species and its descendants, the world's 305 breeds[1] of domestic rabbit. Sylvilagus includes 13 wild rabbit species, among them the seven types of cottontail. The European rabbit, which has been introduced on
+				every continent except Antarctica, is familiar throughout the world as a wild prey animal and as a domesticated form of livestock and pet. With its widespread effect on ecologies and cultures, the rabbit is, in many areas of the world, a part of daily life—as food, clothing, a companion, and a source of artistic inspiration.</h5>
+			</th>
+	</tr>
+	<tr>
+			<th>
+				<h5>A male rabbit is called a buck; a female is called a doe. An older term for an adult rabbit used until the 18th century is coney (derived ultimately from the Latin cuniculus), while rabbit once referred only to the young animals.[2] Another term for a young rabbit is bunny, though this term is often applied informally (particularly by children) to rabbits generally, especially domestic ones. More recently, the term kit or kitten has been used to refer to a young rabbit.</h5>
+			</th>
+	</tr>
+	<tr>
+		<th><h5>
+	Rabbits and hares were formerly classified in the order Rodentia (rodent) until 1912, when they were moved into a new order, Lagomorpha (which also includes pikas). Below are some of the genera and species of the rabbit.
+</h5>
+</th>
+</tr>
+
+</table>
+<table>
+	<tr>
+		<th><h3>Images of rabbits</h3>
+			</th>
+			<th><img src="img1.jpg" width="200" />
+			</th>
+<th><img src="img2.jpg" width="200" />
+			</th>
+			<th><img src="img3.jpg" width="200" />
+			</th>
+		</tr>
+	</table>
+
+
+</body>
+</html>
