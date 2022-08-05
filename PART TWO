@@ -1,0 +1,11 @@
+<html>
+    <body>
+        <p id="mytext">This is my text</p>
+        <script>
+            document.getElementById("mytext").textContent="This is my new text";
+            var element=document.createElement('h1');
+            element.textContent='Your Text'
+            document.body.appendChild(element)
+        </script>
+    </body>
+</html>
