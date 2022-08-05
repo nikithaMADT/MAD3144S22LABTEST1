@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title>Nikitha's page</title>
+</head>
+<script>
+	var sumss=sums(0,1);
+
+function sums(sum,i){
+    while(i<=100){
+        sum+=i;
+        i++;   
+  }
+  return sum;
+}
+document.write(sumss);
+</script>
+<body>
+
+
+</body>
+</html>
